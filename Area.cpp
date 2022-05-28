@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    int length ;
+    int lengthwiudiqwdhkwjdkwdkdkdgskgwkd ;
     int breath;
     int area = length * breath;
     if(length == breath)
