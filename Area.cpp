@@ -4,8 +4,7 @@ using namespace std;
 
 int main() {
 
-    int lengthwiudiqwdhkwjdkwdkdkdgskgwkd ;
-    int breath;
+    int length,breath;
     int area = length * breath;
     if(length == breath)
     cout << "area of a square is " << area;
